@@ -1,0 +1,7 @@
+Name: Annual Price Config
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - PricingVariable/ANNUAL_STD_PRC
+VlocityTypesToFetch:
+    - PricingVariable
+SalesforceTypesToFetch:
