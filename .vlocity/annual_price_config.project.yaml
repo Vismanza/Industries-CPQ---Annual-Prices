@@ -2,6 +2,8 @@ Name: Annual Price Config
 ignoreDependencies: false
 VlocityDataPackKeys:
     - PricingVariable/ANNUAL_STD_PRC
+    - PricingVariable/ANNUAL_MARGIN
+    - PricingVariable/ANNUAL_STD_CST
 VlocityTypesToFetch:
     - PricingVariable
 SalesforceTypesToFetch:

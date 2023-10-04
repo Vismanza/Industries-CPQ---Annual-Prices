@@ -11,12 +11,11 @@ They will also need to be mapped with Field Mapper for CPQ functionality (submit
 ### Annual Std Price
 
 
+### Annual Std Cost
 
-Pricing Variable Name: 
-Code:
-Description:
-Active:
-Charge Type:
+
+### Annual Margin
+
 
 
 

@@ -148,16 +148,16 @@
   },
   "active": "1960cbbedb2f2d02",
   "lastOpenFiles": [
+    "vlocity/PricingVariable/ANNUAL_STD_CST/Annual-Std-Cost_PricingVariableBindings.json",
+    "vlocity/PricingVariable/ANNUAL_STD_CST/Annual-Std-Cost_DataPack.json",
+    "vlocity/PricingVariable/ANNUAL_STD_CST",
+    "vlocity/PricingVariable/ANNUAL_MARGIN/Annual-Margin_PricingVariableBindings.json",
+    "vlocity/PricingVariable/ANNUAL_MARGIN/Annual-Margin_DataPack.json",
+    "vlocity/PricingVariable/ANNUAL_MARGIN",
     "force-app/main/default/objects/Asset/fields/Annual_Cost__c.field-meta.xml",
     "force-app/main/default/objects/OrderItem/fields/Annual_Cost__c.field-meta.xml",
     "force-app/main/default/objects/OrderItem/fields/Annual_Charge__c.field-meta.xml",
     "force-app/main/default/objects/QuoteLineItem/fields/Annual_Cost__c.field-meta.xml",
-    "force-app/main/default/objects/OpportunityLineItem/fields/Annual_Cost__c.field-meta.xml",
-    "force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
-    "force-app/main/default/objects/Opportunity/webLinks/vlocity_cmt__ManageOpportunityGroups.webLink-meta.xml",
-    "force-app/main/default/objects/Opportunity/webLinks/vlocity_cmt__GenerateDocumentPDF.webLink-meta.xml",
-    "force-app/main/default/objects/Opportunity/webLinks/vlocity_cmt__DeliveryStatus.webLink-meta.xml",
-    "force-app/main/default/objects/Opportunity/webLinks/vlocity_cmt__CreatingContractAloha.webLink-meta.xml",
-    "force-app/main/default/objects/Opportunity/webLinks/vlocity_cmt__CreateSchedules.webLink-meta.xml"
+    "force-app/main/default/objects/OpportunityLineItem/fields/Annual_Cost__c.field-meta.xml"
   ]
 }
